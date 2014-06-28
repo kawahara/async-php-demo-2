@@ -1,0 +1,13 @@
+{
+    "name": "kawahara/async-php-demo-2",
+    "authors": [
+        {
+            "name": "Shogo Kawahara",
+            "email": "kawahara@bucyou.net"
+        }
+    ],
+    "require": {
+        "react/react": "v0.4.1",
+        "monolog/monolog": "1.10.0"
+    }
+}
